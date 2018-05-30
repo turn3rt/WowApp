@@ -13,6 +13,10 @@
 		B3367B5B20BA4CD20037A581 /* WowApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B3367B5920BA4CD20037A581 /* WowApp.xcdatamodeld */; };
 		B3367B5D20BA4CD40037A581 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3367B5C20BA4CD40037A581 /* Assets.xcassets */; };
 		B3367B6020BA4CD40037A581 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3367B5E20BA4CD40037A581 /* LaunchScreen.storyboard */; };
+		B3367B6820BA4E0E0037A581 /* UIButtonX.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3367B6720BA4E0E0037A581 /* UIButtonX.swift */; };
+		B3367B6A20BA4F360037A581 /* Wow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B3367B6920BA4F360037A581 /* Wow.jpg */; };
+		B385CFCE20BE483F00A2C2BF /* Owen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B385CFCD20BE483F00A2C2BF /* Owen.jpg */; };
+		B385CFD020BE504C00A2C2BF /* Wow1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFCF20BE504C00A2C2BF /* Wow1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +28,10 @@
 		B3367B5C20BA4CD40037A581 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B3367B5F20BA4CD40037A581 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B3367B6120BA4CD40037A581 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3367B6720BA4E0E0037A581 /* UIButtonX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonX.swift; sourceTree = "<group>"; };
+		B3367B6920BA4F360037A581 /* Wow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Wow.jpg; sourceTree = "<group>"; };
+		B385CFCD20BE483F00A2C2BF /* Owen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Owen.jpg; path = ../../../Downloads/Owen.jpg; sourceTree = "<group>"; };
+		B385CFCF20BE504C00A2C2BF /* Wow1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,10 @@
 			children = (
 				B3367B5220BA4CD20037A581 /* AppDelegate.swift */,
 				B3367B5420BA4CD20037A581 /* ViewController.swift */,
+				B3367B6720BA4E0E0037A581 /* UIButtonX.swift */,
+				B3367B6920BA4F360037A581 /* Wow.jpg */,
+				B385CFCD20BE483F00A2C2BF /* Owen.jpg */,
+				B385CFCF20BE504C00A2C2BF /* Wow1.mp3 */,
 				B3367B5620BA4CD20037A581 /* Main.storyboard */,
 				B3367B5C20BA4CD40037A581 /* Assets.xcassets */,
 				B3367B5E20BA4CD40037A581 /* LaunchScreen.storyboard */,
@@ -125,9 +137,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B385CFD020BE504C00A2C2BF /* Wow1.mp3 in Resources */,
 				B3367B6020BA4CD40037A581 /* LaunchScreen.storyboard in Resources */,
 				B3367B5D20BA4CD40037A581 /* Assets.xcassets in Resources */,
+				B385CFCE20BE483F00A2C2BF /* Owen.jpg in Resources */,
 				B3367B5820BA4CD20037A581 /* Main.storyboard in Resources */,
+				B3367B6A20BA4F360037A581 /* Wow.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3367B6820BA4E0E0037A581 /* UIButtonX.swift in Sources */,
 				B3367B5520BA4CD20037A581 /* ViewController.swift in Sources */,
 				B3367B5B20BA4CD20037A581 /* WowApp.xcdatamodeld in Sources */,
 				B3367B5320BA4CD20037A581 /* AppDelegate.swift in Sources */,
