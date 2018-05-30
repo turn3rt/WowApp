@@ -20,12 +20,18 @@ class ViewController: UIViewController, AVAudioPlayerDelegate  {
         let url = URL(fileURLWithPath: path)
         
         
+        
         do {
             wowSound = try AVAudioPlayer(contentsOf: url)
             wowSound?.delegate = self // sets av player delegate protocol
             wowSound?.play()
             face.setImage(#imageLiteral(resourceName: "Wow.jpg"), for: .normal)
             
+            
+            UIView.animate(withDuration: (wowSound?.duration)!, animations: ({
+                //first one rotates 180 degrees over half the time of the clip duration
+                self.face.transform = CGAffineTransform(scaleX: 100.0, y: 100.0)
+            }))
             
             // 360 rotation needs to be spread out over 2 rotations
             UIView.animate(withDuration: (wowSound?.duration)!/2, animations: ({
