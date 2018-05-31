@@ -16,7 +16,8 @@ class ViewController: UIViewController, AVAudioPlayerDelegate  {
     var wowSound: AVAudioPlayer?
     
     @IBAction func facePress(_ sender: UIButtonX) {
-        let path = Bundle.main.path(forResource: "Wow1.mp3", ofType:nil)!
+        //arc4random makes random number between 0 and upper bound -1, therefore +1 needed to counteract
+        let path = Bundle.main.path(forResource: "Wow\(Int(arc4random_uniform(2))+1).mp3", ofType:nil)!
         let url = URL(fileURLWithPath: path)
         
         
