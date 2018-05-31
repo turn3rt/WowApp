@@ -14,10 +14,54 @@
 		B3367B5D20BA4CD40037A581 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3367B5C20BA4CD40037A581 /* Assets.xcassets */; };
 		B3367B6020BA4CD40037A581 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3367B5E20BA4CD40037A581 /* LaunchScreen.storyboard */; };
 		B3367B6820BA4E0E0037A581 /* UIButtonX.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3367B6720BA4E0E0037A581 /* UIButtonX.swift */; };
-		B3367B6A20BA4F360037A581 /* Wow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B3367B6920BA4F360037A581 /* Wow.jpg */; };
-		B385CFCE20BE483F00A2C2BF /* Owen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B385CFCD20BE483F00A2C2BF /* Owen.jpg */; };
 		B385CFD020BE504C00A2C2BF /* Wow1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFCF20BE504C00A2C2BF /* Wow1.mp3 */; };
 		B385CFD220C0592300A2C2BF /* Wow2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFD120C0592300A2C2BF /* Wow2.mp3 */; };
+		B385CFD620C0637C00A2C2BF /* Wow3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFD520C0637C00A2C2BF /* Wow3.mp3 */; };
+		B385CFD820C0638700A2C2BF /* Wow4.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFD720C0638700A2C2BF /* Wow4.mp3 */; };
+		B385CFDA20C0639400A2C2BF /* Wow5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFD920C0639400A2C2BF /* Wow5.mp3 */; };
+		B385CFDC20C063A800A2C2BF /* Wow6.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFDB20C063A800A2C2BF /* Wow6.mp3 */; };
+		B385CFDE20C063B100A2C2BF /* Wow7.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFDD20C063B100A2C2BF /* Wow7.mp3 */; };
+		B385CFE120C0668800A2C2BF /* Wow8.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFE020C0668800A2C2BF /* Wow8.mp3 */; };
+		B385CFE320C0669000A2C2BF /* Wow9.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFE220C0669000A2C2BF /* Wow9.mp3 */; };
+		B385CFE520C066A900A2C2BF /* Wow11.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFE420C066A900A2C2BF /* Wow11.mp3 */; };
+		B385CFE720C066AF00A2C2BF /* Wow12.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFE620C066AF00A2C2BF /* Wow12.mp3 */; };
+		B385CFE920C066B700A2C2BF /* Wow13.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFE820C066B700A2C2BF /* Wow13.mp3 */; };
+		B385CFEB20C066BF00A2C2BF /* Wow14.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFEA20C066BF00A2C2BF /* Wow14.mp3 */; };
+		B385CFED20C066C600A2C2BF /* Wow15.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFEC20C066C600A2C2BF /* Wow15.mp3 */; };
+		B385CFEF20C0672200A2C2BF /* Wow10.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFEE20C0672200A2C2BF /* Wow10.mp3 */; };
+		B385CFF120C0685500A2C2BF /* Wow16.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFF020C0685500A2C2BF /* Wow16.mp3 */; };
+		B385CFF320C06B6300A2C2BF /* BG.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B385CFF220C06B6300A2C2BF /* BG.jpg */; };
+		B385CFF620C06E7F00A2C2BF /* Owen_NBG.png in Resources */ = {isa = PBXBuildFile; fileRef = B385CFF420C06E7F00A2C2BF /* Owen_NBG.png */; };
+		B385CFF920C0711900A2C2BF /* Wow_NBG.png in Resources */ = {isa = PBXBuildFile; fileRef = B385CFF820C0711900A2C2BF /* Wow_NBG.png */; };
+		B385CFFB20C0872000A2C2BF /* Wow17.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFFA20C0872000A2C2BF /* Wow17.mp3 */; };
+		B385CFFD20C0872900A2C2BF /* Wow18.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFFC20C0872900A2C2BF /* Wow18.mp3 */; };
+		B385CFFF20C0ACD700A2C2BF /* Wow19.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385CFFE20C0ACD600A2C2BF /* Wow19.mp3 */; };
+		B385D00120C0ACE500A2C2BF /* Wow20.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D00020C0ACE500A2C2BF /* Wow20.mp3 */; };
+		B385D00320C0ACEB00A2C2BF /* Wow21.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D00220C0ACEB00A2C2BF /* Wow21.mp3 */; };
+		B385D00520C0ACF000A2C2BF /* Wow22.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D00420C0ACF000A2C2BF /* Wow22.mp3 */; };
+		B385D00820C0AD0C00A2C2BF /* Wow23.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D00720C0AD0C00A2C2BF /* Wow23.mp3 */; };
+		B385D00A20C0AD1200A2C2BF /* Wow24.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D00920C0AD1200A2C2BF /* Wow24.mp3 */; };
+		B385D00C20C0AD5A00A2C2BF /* Wow26.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D00B20C0AD5A00A2C2BF /* Wow26.mp3 */; };
+		B385D00E20C0AD6E00A2C2BF /* Wow27.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D00D20C0AD6E00A2C2BF /* Wow27.mp3 */; };
+		B385D01020C0AD7900A2C2BF /* Wow28.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D00F20C0AD7900A2C2BF /* Wow28.mp3 */; };
+		B385D01220C0AD8000A2C2BF /* Wow29.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D01120C0AD8000A2C2BF /* Wow29.mp3 */; };
+		B385D01420C0AD8700A2C2BF /* Wow30.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D01320C0AD8600A2C2BF /* Wow30.mp3 */; };
+		B385D01620C0AD8D00A2C2BF /* Wow31.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D01520C0AD8D00A2C2BF /* Wow31.mp3 */; };
+		B385D01820C0AD9300A2C2BF /* Wow32.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D01720C0AD9300A2C2BF /* Wow32.mp3 */; };
+		B385D01A20C0ADA700A2C2BF /* Wow33.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D01920C0ADA600A2C2BF /* Wow33.mp3 */; };
+		B385D01C20C0ADB300A2C2BF /* Wow34.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D01B20C0ADB300A2C2BF /* Wow34.mp3 */; };
+		B385D01E20C0ADBC00A2C2BF /* Wow35.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D01D20C0ADBC00A2C2BF /* Wow35.mp3 */; };
+		B385D02020C0ADC500A2C2BF /* Wow36.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D01F20C0ADC500A2C2BF /* Wow36.mp3 */; };
+		B385D02220C0ADD000A2C2BF /* Wow37.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D02120C0ADCF00A2C2BF /* Wow37.mp3 */; };
+		B385D02420C0ADDA00A2C2BF /* Wow38.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D02320C0ADDA00A2C2BF /* Wow38.mp3 */; };
+		B385D02620C0ADE500A2C2BF /* Wow39.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D02520C0ADE500A2C2BF /* Wow39.mp3 */; };
+		B385D02820C0ADEF00A2C2BF /* Wow40.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D02720C0ADEF00A2C2BF /* Wow40.mp3 */; };
+		B385D02A20C0ADF400A2C2BF /* Wow41.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D02920C0ADF400A2C2BF /* Wow41.mp3 */; };
+		B385D02C20C0ADFB00A2C2BF /* Wow42.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D02B20C0ADFB00A2C2BF /* Wow42.mp3 */; };
+		B385D02E20C0AE0600A2C2BF /* Wow25.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D02D20C0AE0600A2C2BF /* Wow25.mp3 */; };
+		B385D03020C0AE1600A2C2BF /* Wow44.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D02F20C0AE1600A2C2BF /* Wow44.mp3 */; };
+		B385D03220C0AE2100A2C2BF /* Wow45.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D03120C0AE2100A2C2BF /* Wow45.mp3 */; };
+		B385D03420C0AE4800A2C2BF /* Wow43.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = B385D03320C0AE4800A2C2BF /* Wow43.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,10 +74,54 @@
 		B3367B5F20BA4CD40037A581 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B3367B6120BA4CD40037A581 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B3367B6720BA4E0E0037A581 /* UIButtonX.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIButtonX.swift; sourceTree = "<group>"; };
-		B3367B6920BA4F360037A581 /* Wow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Wow.jpg; sourceTree = "<group>"; };
-		B385CFCD20BE483F00A2C2BF /* Owen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Owen.jpg; path = ../../../Downloads/Owen.jpg; sourceTree = "<group>"; };
 		B385CFCF20BE504C00A2C2BF /* Wow1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow1.mp3; sourceTree = "<group>"; };
 		B385CFD120C0592300A2C2BF /* Wow2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow2.mp3; sourceTree = "<group>"; };
+		B385CFD520C0637C00A2C2BF /* Wow3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow3.mp3; sourceTree = "<group>"; };
+		B385CFD720C0638700A2C2BF /* Wow4.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow4.mp3; sourceTree = "<group>"; };
+		B385CFD920C0639400A2C2BF /* Wow5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow5.mp3; sourceTree = "<group>"; };
+		B385CFDB20C063A800A2C2BF /* Wow6.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow6.mp3; sourceTree = "<group>"; };
+		B385CFDD20C063B100A2C2BF /* Wow7.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow7.mp3; sourceTree = "<group>"; };
+		B385CFE020C0668800A2C2BF /* Wow8.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow8.mp3; sourceTree = "<group>"; };
+		B385CFE220C0669000A2C2BF /* Wow9.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow9.mp3; sourceTree = "<group>"; };
+		B385CFE420C066A900A2C2BF /* Wow11.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow11.mp3; sourceTree = "<group>"; };
+		B385CFE620C066AF00A2C2BF /* Wow12.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow12.mp3; sourceTree = "<group>"; };
+		B385CFE820C066B700A2C2BF /* Wow13.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow13.mp3; sourceTree = "<group>"; };
+		B385CFEA20C066BF00A2C2BF /* Wow14.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow14.mp3; sourceTree = "<group>"; };
+		B385CFEC20C066C600A2C2BF /* Wow15.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow15.mp3; sourceTree = "<group>"; };
+		B385CFEE20C0672200A2C2BF /* Wow10.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow10.mp3; sourceTree = "<group>"; };
+		B385CFF020C0685500A2C2BF /* Wow16.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow16.mp3; sourceTree = "<group>"; };
+		B385CFF220C06B6300A2C2BF /* BG.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BG.jpg; sourceTree = "<group>"; };
+		B385CFF420C06E7F00A2C2BF /* Owen_NBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Owen_NBG.png; sourceTree = "<group>"; };
+		B385CFF820C0711900A2C2BF /* Wow_NBG.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Wow_NBG.png; sourceTree = "<group>"; };
+		B385CFFA20C0872000A2C2BF /* Wow17.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow17.mp3; sourceTree = "<group>"; };
+		B385CFFC20C0872900A2C2BF /* Wow18.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow18.mp3; sourceTree = "<group>"; };
+		B385CFFE20C0ACD600A2C2BF /* Wow19.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow19.mp3; sourceTree = "<group>"; };
+		B385D00020C0ACE500A2C2BF /* Wow20.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow20.mp3; sourceTree = "<group>"; };
+		B385D00220C0ACEB00A2C2BF /* Wow21.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow21.mp3; sourceTree = "<group>"; };
+		B385D00420C0ACF000A2C2BF /* Wow22.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow22.mp3; sourceTree = "<group>"; };
+		B385D00720C0AD0C00A2C2BF /* Wow23.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow23.mp3; sourceTree = "<group>"; };
+		B385D00920C0AD1200A2C2BF /* Wow24.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow24.mp3; sourceTree = "<group>"; };
+		B385D00B20C0AD5A00A2C2BF /* Wow26.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow26.mp3; sourceTree = "<group>"; };
+		B385D00D20C0AD6E00A2C2BF /* Wow27.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow27.mp3; sourceTree = "<group>"; };
+		B385D00F20C0AD7900A2C2BF /* Wow28.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow28.mp3; sourceTree = "<group>"; };
+		B385D01120C0AD8000A2C2BF /* Wow29.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow29.mp3; sourceTree = "<group>"; };
+		B385D01320C0AD8600A2C2BF /* Wow30.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow30.mp3; sourceTree = "<group>"; };
+		B385D01520C0AD8D00A2C2BF /* Wow31.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow31.mp3; sourceTree = "<group>"; };
+		B385D01720C0AD9300A2C2BF /* Wow32.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow32.mp3; sourceTree = "<group>"; };
+		B385D01920C0ADA600A2C2BF /* Wow33.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow33.mp3; sourceTree = "<group>"; };
+		B385D01B20C0ADB300A2C2BF /* Wow34.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow34.mp3; sourceTree = "<group>"; };
+		B385D01D20C0ADBC00A2C2BF /* Wow35.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow35.mp3; sourceTree = "<group>"; };
+		B385D01F20C0ADC500A2C2BF /* Wow36.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow36.mp3; sourceTree = "<group>"; };
+		B385D02120C0ADCF00A2C2BF /* Wow37.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow37.mp3; sourceTree = "<group>"; };
+		B385D02320C0ADDA00A2C2BF /* Wow38.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow38.mp3; sourceTree = "<group>"; };
+		B385D02520C0ADE500A2C2BF /* Wow39.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow39.mp3; sourceTree = "<group>"; };
+		B385D02720C0ADEF00A2C2BF /* Wow40.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow40.mp3; sourceTree = "<group>"; };
+		B385D02920C0ADF400A2C2BF /* Wow41.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow41.mp3; sourceTree = "<group>"; };
+		B385D02B20C0ADFB00A2C2BF /* Wow42.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow42.mp3; sourceTree = "<group>"; };
+		B385D02D20C0AE0600A2C2BF /* Wow25.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow25.mp3; sourceTree = "<group>"; };
+		B385D02F20C0AE1600A2C2BF /* Wow44.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow44.mp3; sourceTree = "<group>"; };
+		B385D03120C0AE2100A2C2BF /* Wow45.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow45.mp3; sourceTree = "<group>"; };
+		B385D03320C0AE4800A2C2BF /* Wow43.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Wow43.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,10 +157,10 @@
 				B3367B5220BA4CD20037A581 /* AppDelegate.swift */,
 				B3367B5420BA4CD20037A581 /* ViewController.swift */,
 				B3367B6720BA4E0E0037A581 /* UIButtonX.swift */,
-				B3367B6920BA4F360037A581 /* Wow.jpg */,
-				B385CFD120C0592300A2C2BF /* Wow2.mp3 */,
-				B385CFCD20BE483F00A2C2BF /* Owen.jpg */,
-				B385CFCF20BE504C00A2C2BF /* Wow1.mp3 */,
+				B385CFF220C06B6300A2C2BF /* BG.jpg */,
+				B385CFF420C06E7F00A2C2BF /* Owen_NBG.png */,
+				B385CFF820C0711900A2C2BF /* Wow_NBG.png */,
+				B385CFDF20C063B900A2C2BF /* Wow Sounds */,
 				B3367B5620BA4CD20037A581 /* Main.storyboard */,
 				B3367B5C20BA4CD40037A581 /* Assets.xcassets */,
 				B3367B5E20BA4CD40037A581 /* LaunchScreen.storyboard */,
@@ -80,6 +168,58 @@
 				B3367B5920BA4CD20037A581 /* WowApp.xcdatamodeld */,
 			);
 			path = WowApp;
+			sourceTree = "<group>";
+		};
+		B385CFDF20C063B900A2C2BF /* Wow Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				B385CFCF20BE504C00A2C2BF /* Wow1.mp3 */,
+				B385CFD120C0592300A2C2BF /* Wow2.mp3 */,
+				B385CFD520C0637C00A2C2BF /* Wow3.mp3 */,
+				B385CFD720C0638700A2C2BF /* Wow4.mp3 */,
+				B385CFD920C0639400A2C2BF /* Wow5.mp3 */,
+				B385CFDB20C063A800A2C2BF /* Wow6.mp3 */,
+				B385CFDD20C063B100A2C2BF /* Wow7.mp3 */,
+				B385CFE020C0668800A2C2BF /* Wow8.mp3 */,
+				B385CFE220C0669000A2C2BF /* Wow9.mp3 */,
+				B385CFEE20C0672200A2C2BF /* Wow10.mp3 */,
+				B385CFE420C066A900A2C2BF /* Wow11.mp3 */,
+				B385CFE620C066AF00A2C2BF /* Wow12.mp3 */,
+				B385CFE820C066B700A2C2BF /* Wow13.mp3 */,
+				B385CFEA20C066BF00A2C2BF /* Wow14.mp3 */,
+				B385CFEC20C066C600A2C2BF /* Wow15.mp3 */,
+				B385CFF020C0685500A2C2BF /* Wow16.mp3 */,
+				B385CFFA20C0872000A2C2BF /* Wow17.mp3 */,
+				B385CFFC20C0872900A2C2BF /* Wow18.mp3 */,
+				B385CFFE20C0ACD600A2C2BF /* Wow19.mp3 */,
+				B385D00020C0ACE500A2C2BF /* Wow20.mp3 */,
+				B385D00220C0ACEB00A2C2BF /* Wow21.mp3 */,
+				B385D00420C0ACF000A2C2BF /* Wow22.mp3 */,
+				B385D00720C0AD0C00A2C2BF /* Wow23.mp3 */,
+				B385D00920C0AD1200A2C2BF /* Wow24.mp3 */,
+				B385D02D20C0AE0600A2C2BF /* Wow25.mp3 */,
+				B385D00B20C0AD5A00A2C2BF /* Wow26.mp3 */,
+				B385D00D20C0AD6E00A2C2BF /* Wow27.mp3 */,
+				B385D00F20C0AD7900A2C2BF /* Wow28.mp3 */,
+				B385D01120C0AD8000A2C2BF /* Wow29.mp3 */,
+				B385D01320C0AD8600A2C2BF /* Wow30.mp3 */,
+				B385D01520C0AD8D00A2C2BF /* Wow31.mp3 */,
+				B385D01720C0AD9300A2C2BF /* Wow32.mp3 */,
+				B385D01920C0ADA600A2C2BF /* Wow33.mp3 */,
+				B385D01B20C0ADB300A2C2BF /* Wow34.mp3 */,
+				B385D01D20C0ADBC00A2C2BF /* Wow35.mp3 */,
+				B385D01F20C0ADC500A2C2BF /* Wow36.mp3 */,
+				B385D02120C0ADCF00A2C2BF /* Wow37.mp3 */,
+				B385D02320C0ADDA00A2C2BF /* Wow38.mp3 */,
+				B385D02520C0ADE500A2C2BF /* Wow39.mp3 */,
+				B385D02720C0ADEF00A2C2BF /* Wow40.mp3 */,
+				B385D02920C0ADF400A2C2BF /* Wow41.mp3 */,
+				B385D02B20C0ADFB00A2C2BF /* Wow42.mp3 */,
+				B385D03320C0AE4800A2C2BF /* Wow43.mp3 */,
+				B385D02F20C0AE1600A2C2BF /* Wow44.mp3 */,
+				B385D03120C0AE2100A2C2BF /* Wow45.mp3 */,
+			);
+			path = "Wow Sounds";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -140,13 +280,57 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B385CFF320C06B6300A2C2BF /* BG.jpg in Resources */,
+				B385D01820C0AD9300A2C2BF /* Wow32.mp3 in Resources */,
+				B385D02820C0ADEF00A2C2BF /* Wow40.mp3 in Resources */,
+				B385CFD820C0638700A2C2BF /* Wow4.mp3 in Resources */,
+				B385D00120C0ACE500A2C2BF /* Wow20.mp3 in Resources */,
+				B385D01A20C0ADA700A2C2BF /* Wow33.mp3 in Resources */,
 				B385CFD020BE504C00A2C2BF /* Wow1.mp3 in Resources */,
+				B385CFDA20C0639400A2C2BF /* Wow5.mp3 in Resources */,
 				B385CFD220C0592300A2C2BF /* Wow2.mp3 in Resources */,
+				B385CFFD20C0872900A2C2BF /* Wow18.mp3 in Resources */,
+				B385D02420C0ADDA00A2C2BF /* Wow38.mp3 in Resources */,
+				B385D02E20C0AE0600A2C2BF /* Wow25.mp3 in Resources */,
+				B385CFED20C066C600A2C2BF /* Wow15.mp3 in Resources */,
+				B385CFFB20C0872000A2C2BF /* Wow17.mp3 in Resources */,
+				B385CFE120C0668800A2C2BF /* Wow8.mp3 in Resources */,
+				B385D01E20C0ADBC00A2C2BF /* Wow35.mp3 in Resources */,
+				B385CFFF20C0ACD700A2C2BF /* Wow19.mp3 in Resources */,
+				B385CFE520C066A900A2C2BF /* Wow11.mp3 in Resources */,
+				B385CFDC20C063A800A2C2BF /* Wow6.mp3 in Resources */,
+				B385D00E20C0AD6E00A2C2BF /* Wow27.mp3 in Resources */,
+				B385D01020C0AD7900A2C2BF /* Wow28.mp3 in Resources */,
+				B385CFF920C0711900A2C2BF /* Wow_NBG.png in Resources */,
+				B385D02A20C0ADF400A2C2BF /* Wow41.mp3 in Resources */,
+				B385D03420C0AE4800A2C2BF /* Wow43.mp3 in Resources */,
+				B385D03020C0AE1600A2C2BF /* Wow44.mp3 in Resources */,
+				B385D00A20C0AD1200A2C2BF /* Wow24.mp3 in Resources */,
+				B385D02220C0ADD000A2C2BF /* Wow37.mp3 in Resources */,
+				B385CFE720C066AF00A2C2BF /* Wow12.mp3 in Resources */,
+				B385D02020C0ADC500A2C2BF /* Wow36.mp3 in Resources */,
+				B385CFE920C066B700A2C2BF /* Wow13.mp3 in Resources */,
 				B3367B6020BA4CD40037A581 /* LaunchScreen.storyboard in Resources */,
+				B385D01620C0AD8D00A2C2BF /* Wow31.mp3 in Resources */,
+				B385CFDE20C063B100A2C2BF /* Wow7.mp3 in Resources */,
+				B385CFF620C06E7F00A2C2BF /* Owen_NBG.png in Resources */,
+				B385D00820C0AD0C00A2C2BF /* Wow23.mp3 in Resources */,
+				B385D01C20C0ADB300A2C2BF /* Wow34.mp3 in Resources */,
+				B385CFEB20C066BF00A2C2BF /* Wow14.mp3 in Resources */,
+				B385D02C20C0ADFB00A2C2BF /* Wow42.mp3 in Resources */,
+				B385D00520C0ACF000A2C2BF /* Wow22.mp3 in Resources */,
+				B385D00320C0ACEB00A2C2BF /* Wow21.mp3 in Resources */,
+				B385CFE320C0669000A2C2BF /* Wow9.mp3 in Resources */,
+				B385D01420C0AD8700A2C2BF /* Wow30.mp3 in Resources */,
+				B385D00C20C0AD5A00A2C2BF /* Wow26.mp3 in Resources */,
+				B385CFF120C0685500A2C2BF /* Wow16.mp3 in Resources */,
+				B385D01220C0AD8000A2C2BF /* Wow29.mp3 in Resources */,
 				B3367B5D20BA4CD40037A581 /* Assets.xcassets in Resources */,
-				B385CFCE20BE483F00A2C2BF /* Owen.jpg in Resources */,
+				B385D02620C0ADE500A2C2BF /* Wow39.mp3 in Resources */,
 				B3367B5820BA4CD20037A581 /* Main.storyboard in Resources */,
-				B3367B6A20BA4F360037A581 /* Wow.jpg in Resources */,
+				B385D03220C0AE2100A2C2BF /* Wow45.mp3 in Resources */,
+				B385CFEF20C0672200A2C2BF /* Wow10.mp3 in Resources */,
+				B385CFD620C0637C00A2C2BF /* Wow3.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
